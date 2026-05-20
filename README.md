@@ -1,6 +1,6 @@
-# Banco de dados - MSSQL / T-SQL
+# Banco de dados - T-SQL
 
-Este repositório apresenta um projeto prático desenvolvido em **SQL Server e T-SQL**, inspirado em cenários reais de rotina em TI. O sistema simula o controle de ativos fixos e itens comuns dentro de um ambiente corporativo.
+Este repositório apresenta um projeto prático desenvolvido no **SQL Server** com **T-SQL**, inspirado em cenários reais de rotina em TI. O sistema simula o controle de ativos fixos e itens comuns dentro de um ambiente corporativo.
 
 ## 📁 Estrutura do Banco de Dados
 
